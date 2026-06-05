@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://julia100900.github.io/pragma-agency/sitemap.xml
